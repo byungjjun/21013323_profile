@@ -1,0 +1,83 @@
+body {
+    width: 70%;
+    margin: 20px auto;
+    
+}
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.info {
+    font-size: 12px;
+}
+
+.sju_logo {
+    margin-left: auto;
+}
+
+
+.section1 {
+    border: 1px dashed rgb(207, 191, 19);
+    background-color: lightgoldenrodyellow;
+    margin-top: 10px;
+    
+}
+
+.section1 > h1 {
+    background-color: antiquewhite;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.section1 > hr {
+    margin: 0;
+    border: 1px solid black;
+}
+
+.section1 h2 {
+    background-color: aquamarine;
+}
+
+.section2 {
+    border: 1px dashed rgb(207, 191, 19);
+    background-color: lightblue;
+    margin-top: 10px;
+}
+
+.section2 > h1 {
+    background-color: antiquewhite;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.section2 > hr {
+    margin: 0;
+    border: 1px solid black;
+}
+
+.section3 {
+    border: 1px dashed rgb(207, 191, 19);
+    background-color: lightgray;
+    margin-top: 10px;
+}
+
+.section3 > h1 {
+    background-color: antiquewhite;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.section3 > hr {
+    margin: 0;
+    border: 1px solid black;
+}
